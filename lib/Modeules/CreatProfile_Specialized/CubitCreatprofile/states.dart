@@ -1,0 +1,17 @@
+
+abstract class CreatprofileSpecializedstate {}
+
+
+class initialCreatprofileSpecializedState extends CreatprofileSpecializedstate{}
+
+class profileImageSpecializedSucessState extends CreatprofileSpecializedstate{}
+
+class profileImageSpecializedErrorState extends CreatprofileSpecializedstate{}
+
+class ImageProfilCVImageSpecializedSucessState extends CreatprofileSpecializedstate{}
+class ImageProfilCVSpecializedErrorState extends CreatprofileSpecializedstate{}
+
+class profileImageSVAG_AdimState extends CreatprofileSpecializedstate{}
+
+
+class ChangeRaiosCreatprofileState extends CreatprofileSpecializedstate{}
