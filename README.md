@@ -1,3 +1,4 @@
+![Screenshot 2023-01-25 214420](https://user-images.githubusercontent.com/116188398/215733439-2f196090-0b29-43d6-b958-a68c2ef2e938.png)
 # Healthic_App
 
 Flutter & Dart (Mobile application).
