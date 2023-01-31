@@ -67,6 +67,6 @@ Manage pictures.
 ![WhatsApp Image 2023-01-31 at 12 22 01 PM](https://user-images.githubusercontent.com/116188398/215734034-d9fefd87-274a-482d-82e3-833d42fc8c26.jpeg)
 ![WhatsApp Image 2023-01-31 at 12 22 01 PM (1)](https://user-images.githubusercontent.com/116188398/215734045-2588885b-31c1-4d01-816e-a41825647da6.jpeg)
 ![WhatsApp Image 2023-01-31 at 12 22 00 PM](https://user-images.githubusercontent.com/116188398/215734056-d65b91e0-7028-46b2-8196-0bee2a6df37b.jpeg)
-
+![WhatsApp Image 2023-01-31 at 12 22 00 PM (1)](https://user-images.githubusercontent.com/116188398/215734723-85c119c8-401b-4ca3-92d2-b3ee2692806d.jpeg)
 
 
